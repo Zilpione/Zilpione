@@ -1,3 +1,4 @@
+![Banner Image](https://media.licdn.com/dms/image/D4D16AQHxGDTmk7m7Mw/profile-displaybackgroundimage-shrink_350_1400/0/1686921681352?e=1702512000&v=beta&t=J6OXQ5YI4dYFfONlpwpVSrGyKBAvttj77jgAuPPBZZI)
 <h1 align="center">Hi 👋, I'm Simone Bastiani</h1>
 <h3 align="center">Experienced Software Engineer with over a decade of professional experience!</h3>
 <h3 align="center"> I have the bad abits of creating VideoGames!</h3>
