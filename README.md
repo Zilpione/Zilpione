@@ -5,7 +5,7 @@
 <p align="center"></p>
 <p align="center">
    <a align="center" href="https://zilpio-gaming.itch.io/">
-       <img src="https://itch.io/itchio-textless-white.svg" alt="itch.io" width="20" height="20"/> Try My Games!
+       <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="itch.io" width="20" height="20"/> Try My Games!
    </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
