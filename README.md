@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simone Bastiani</h1>
-<h3 align="center">Experienced Software Engineer with over a decade of professional experience</h3>
-
-
-<p align="left">
-</p>
-
-<h3 align="left">My Games: </h3>
+<h3 align="center">Experienced Software Engineer with over a decade of professional experience!</h3>
+<h3> I have the bad abits of creating VideoGames!</h3>
+<p align="left"></p>
 <a href="https://zilpiogaming.com/">Try my Games!</a>
 
 <h3 align="left">Languages and Tools:</h3>
