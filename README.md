@@ -1,12 +1,31 @@
-![Banner Image](https://media.licdn.com/dms/image/D4D16AQHxGDTmk7m7Mw/profile-displaybackgroundimage-shrink_350_1400/0/1686921681352?e=1702512000&v=beta&t=J6OXQ5YI4dYFfONlpwpVSrGyKBAvttj77jgAuPPBZZI)
+
 <h1 align="center">Hi 👋, I'm Simone Bastiani</h1>
-<h3 align="center">Experienced Software Engineer with over a decade of professional experience!</h3>
-<h3 align="center"> I have the bad abits of creating VideoGames!</h3>
+
+<h3 align="center">A Software Engineer with over a decade of professional experience in .Net Core development!</h3>
+<h3 align="center"> I have the bad abits of creating VideoGames and develop Web3 projects </h3>
 <p align="center"></p>
+
+
+## My Main Stack
 <p align="center">
-   <a align="center" href="https://zilpio-gaming.itch.io/">
-       <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="itch.io" width="20" height="20"/> Try My Games!
-   </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,unreal,mongodb,mysql,git,github,docker,nginx,react,solidity" alt="cs,dotnet,unreal,mongodb,mysql,git,github,docker,nginx,react,solidity">
+  </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+## Other Stack
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=cpp,go,graphql,unity,ps,blender,html,css,js,jquery,nodejs,postman,redux" alt=" ">
+  </a>
+</p>
+
+
+## My projects
+
+ <a align="center" href="https://zilpio-gaming.itch.io/">
+       <img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="itch.io" width="50" height="50"/> My Games
+   </a>
+   
+[CryptoExchange]() - A Working Crypto exchange made with hardhat in React and Solidity
+
