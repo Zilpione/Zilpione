@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Simone Bastiani</h1>
+<h1 align="center">Hi 👋, I'm Simone</h1>
 
 <h3 align="center">A Software Engineer with over a decade of professional experience in .Net Core development!</h3>
 <h3 align="center"> I have the bad abits of creating VideoGames and develop Web3 projects </h3>
